@@ -1,2 +1,2 @@
 # Javascript
-Leaning repo of javascript basic
+Learning repo of javascript basic
